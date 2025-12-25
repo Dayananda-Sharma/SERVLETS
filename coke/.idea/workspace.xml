@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2bfb306-dfc2-4e9e-9603-a600d08b6066" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../apple/src/com/xworkz/apple/servlet/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../apple/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/coke/servlet/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jocky/src/com/xworkz/jocky/servlet/Jockey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jocky/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nike/src/com/xworkz/nike/servlet/Nike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nike/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../puma/src/com/xworkz/puma/servlet/Puma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../puma/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seva/src/com/xworkz/seva/servlet/Seva.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../seva/static/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="37FnO49bUKMs1xXLGe9Hy9g1fh1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Smart Tomcat.tomcat.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;J:/SERVLETS/coke/static&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat">
+      <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
+      <predefined_log_file enabled="true" id="Tomcat Access Log" />
+      <predefined_log_file id="Tomcat Catalina Log" />
+      <predefined_log_file id="Tomcat Manager Log" />
+      <predefined_log_file id="Tomcat Host Manager Log" />
+      <option name="adminPort" value="8006" />
+      <option name="catalinaBase" value="" />
+      <option name="contextPath" value="/coke" />
+      <option name="docBase" value="J:\SERVLETS\coke\static" />
+      <option name="extraClassPath" value="" />
+      <option name="port" value="8090" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat/9.0.38" />
+          <option name="path" value="$USER_HOME$/Downloads/apache-tomcat-9.0.38-windows-x64/apache-tomcat-9.0.38" />
+          <option name="version" value="9.0.38.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <module name="coke" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2bfb306-dfc2-4e9e-9603-a600d08b6066" name="Changes" comment="" />
+      <created>1766507652438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766507652438</updated>
+    </task>
+    <servers />
+  </component>
+</project>
