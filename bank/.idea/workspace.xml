@@ -5,53 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="836a7ce1-2ed1-4721-8bd9-dddcb1172915" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../jio/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.idea/libraries/javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/catalina.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/catalina.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/jaspic-providers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/jaspic-providers.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/tomcat-users.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/.smarttomcat/jio/conf/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/jio.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/src/JioApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/src/com/xworkz/jio/dto/JioDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/src/com/xworkz/jio/service/JioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/static/Register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../jio/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netfix/src/com/xworkz/netfix/NetflixService/NetflixService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../netfix/src/com/xworkz/netfix/dto/NetflixDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.idea/libraries/javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/catalina.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/catalina.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/jaspic-providers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/jaspic-providers.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/tomcat-users.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/.smarttomcat/survey/conf/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/src/com/xworkz/survey/servlet/Survey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/static/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../survey/survey.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../netfix/src/com/xworkz/netfix/servlet/Netflix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../netfix/src/com/xworkz/netfix/servlet/Netflix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../netfix/static/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../netfix/static/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/bank/Service/BankService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xworkz/bank/dto/BankDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,10 +63,15 @@
       <predefined_log_file id="Tomcat Catalina Log" />
       <predefined_log_file id="Tomcat Manager Log" />
       <predefined_log_file id="Tomcat Host Manager Log" />
-      <option name="catalinaBase" value="" />
+      <option name="adminPort" value="8008" />
+      <option name="catalinaBase" value="C:\Users\User\.SmartTomcat\bank\bank" />
       <option name="contextPath" value="/bank" />
       <option name="docBase" value="J:\SERVLETS\bank\static" />
+      <option name="envOptions">
+        <map />
+      </option>
       <option name="extraClassPath" value="" />
+      <option name="port" value="8082" />
       <option name="tomcatInfo">
         <TomcatInfo>
           <option name="name" value="Apache Tomcat/9.0.38" />
